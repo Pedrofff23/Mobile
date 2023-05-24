@@ -42,6 +42,7 @@ class MainActivity3 : AppCompatActivity() {
             params.putString("resultado", resultado.toString())
             intent.putExtras(params)
             startActivity(intent)
+
         }
         return super.onOptionsItemSelected(item)
     }
