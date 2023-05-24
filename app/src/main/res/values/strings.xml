@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">testando</string>
+    <string name="msg_boas_vindas">Bem Vindo ao rayhbank</string>
+    <string name="texto_login">Digite seu login</string>
+    <string name="plain_text_nome"> </string>
+    <string name="text_view_senha">Senha</string>
+    <string name="button_login">Login</string>
+
+    <string name="action_search">Busca</string>
+    <string name="action_refresh">Atualizar</string>
+    <string name="action_setings">Configurações</string>
+    <string name="o_pruduto_custa_22_reais">O pruduto custa 22 reais</string>
+    <string name="produto">Produto</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="digite_a_quantidade">Digite a quantidade</string>
+    <string name="_0">0</string>
+    <string name="resultado">resultado</string>
+</resources>

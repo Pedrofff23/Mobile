@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:id="@+id/primeira_tela">
+        <item
+            android:id="@+id/action_refresh"
+            android:icon="@android:drawable/ic_dialog_info"
+            android:title="Item"
+            app:showAsAction="always" />
+    </group>
+
+    <group android:id="@+id/segunda_tela">
+        <item
+            android:id="@+id/action_search"
+            android:icon="@android:drawable/ic_menu_search"
+            android:title="@string/action_search"
+            app:showAsAction="always" />
+    </group>
+    <group android:id="@+id/excluir">
+        <item
+            android:id="@+id/fechar"
+            android:icon="@android:drawable/ic_input_delete"
+            android:title="@string/action_search"
+            app:showAsAction="always" />
+    </group>
+
+</menu>
